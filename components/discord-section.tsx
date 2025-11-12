@@ -32,7 +32,7 @@ export default function DiscordSection() {
         </p>
 
         <a
-          href="https://discord.gg/nova"
+          href="https://discord.gg/novanotifier"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center gap-3 px-10 py-4 bg-gradient-to-r from-cyan-500 to-purple-500 text-background rounded-lg font-bold text-lg hover:shadow-2xl hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 mb-8"
