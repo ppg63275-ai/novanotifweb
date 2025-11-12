@@ -44,7 +44,6 @@ export default function DiscordSection() {
         {/* Stats */}
         <div className="grid grid-cols-3 gap-4 mt-16 max-w-xl mx-auto">
           {[
-            { label: "15K+ Members", value: "15K+" },
             { label: "Active Channels", value: "20+" },
             { label: "Response Time", value: "< 1 min" },
           ].map((stat, i) => (
