@@ -43,9 +43,9 @@ export default function HeroSection() {
         {/* Feature badges */}
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mt-16 max-w-2xl mx-auto">
           {[
-            { label: "99.9% Uptime", icon: "⚡" },
+            { label: "Fast Support", icon: "⚡" },
             { label: "Real-Time Alerts", icon: "🔔" },
-            { label: "Instant Setup", icon: "🚀" },
+            { label: "Fast Logs", icon: "🚀" },
           ].map((feature, i) => (
             <div
               key={i}
